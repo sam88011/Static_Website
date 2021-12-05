@@ -1,4 +1,1 @@
-This is the readme text
-Thanks
-!
-hello
+This is the readme file
